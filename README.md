@@ -1,3 +1,6 @@
+## Choi react study(Management System)
+본 프로젝튼 React 공부목적으로 만들어진 고객관리 프로젝트 시스템
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
