@@ -39,7 +39,7 @@ class App extends Component {
     return body;
   }  
   render(){
-   const{classes} = this.props;
+   const{classes} = this.props; 
     return(
       <Paper className={classes.root}>
         <Table className={classes.table}>
