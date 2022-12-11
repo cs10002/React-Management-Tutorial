@@ -9,7 +9,7 @@
   "dependencies": {
     "@material-ui/core": "^4.9.0",
     "body-parser": "^1.18.3",
-    "express": "^4.16.4",
+    "express": "^4.17.3",
     "http-proxy-middleware": "^0.20.0",
     "multer": "^1.4.2",
     "mysql": "^2.18.1"
